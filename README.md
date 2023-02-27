@@ -7,7 +7,7 @@ Codestates AI 부트캠프를 통해 데이터 분석/엔지니어링, 머신러
 
 [drf를 이용한 게시판 구현 연습](https://github.com/imchulm2n/drf)
 </br> 
-[drf를 이용한 게시판 구현, 배포]([https://github.com/imchulm2n/drf](https://github.com/CP2-DE-T1/Project))
+[drf를 이용한 게시판 구현, 배포](https://github.com/CP2-DE-T1/Project)
 </br> 
 [외식 산업 예비 창업자를 위한 데이터 시각화 및 분석 프로그래밍](https://github.com/imchulm2n/cp1)
 </br> 
