@@ -1,6 +1,6 @@
 # IM Chulmin 
 
-Codestates AI 부트캠프를 통해 데이터 분석/엔지니어링, 머신러닝/딥러닝을 학습했습니다. 백엔드 과정을 통해 Python/Django 기반 백엔드 REST API 개발을 진행했습니다. 가치있는 서비스를 제공하는 데이터 엔지니어가 되고 싶습니다.
+Codestates AI 부트캠프를 통해 데이터 분석/엔지니어링, 머신러닝/딥러닝을 학습했습니다. 백엔드 과정을 통해 Python/Django 기반 백엔드 REST API 개발을 진행했습니다. 사용자가 만족할 만한 안정적이고 확장 가능한 서비스를 제공하는 기술 발전에 대한 관심과 열정있는 데이터 엔지니어가 되고 싶습니다.
 
 
 ## Projects
@@ -9,7 +9,7 @@ Codestates AI 부트캠프를 통해 데이터 분석/엔지니어링, 머신러
 </br> 
 
 
-## Skills 📫
+## Skills 
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458.svg?&style=for-the-badge&logo=Pandas&logoColor=White)
 ![Django](https://img.shields.io/badge/Django-092E20.svg?&style=for-the-badge&logo=Django&logoColor=White)
