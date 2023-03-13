@@ -11,7 +11,7 @@ Codestates AI 부트캠프를 통해 데이터 분석/엔지니어링, 머신러
 </br> 
 [외식 산업 예비 창업자를 위한 데이터 시각화 및 분석 프로그래밍](https://github.com/imchulm2n/cp1)
 </br> 
-[def로 가계부 API 구현](https://github.com/imchulm2n/drf_ledger)
+[drf로 가계부 API 구현](https://github.com/imchulm2n/drf_ledger)
 </br> 
 
 
