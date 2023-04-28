@@ -5,13 +5,34 @@ Codestates AI 부트캠프를 통해 데이터 분석/엔지니어링, 머신러
 
 ## Projects
 
-[drf를 이용한 게시판 구현 연습](https://github.com/imchulm2n/drf)
-</br> 
-[외식 산업 예비 창업자를 위한 데이터 시각화 및 분석 프로그래밍](https://github.com/imchulm2n/cp1)
-</br> 
-[drf로 가계부 API 구현](https://github.com/imchulm2n/drf_ledger)
-</br> 
+## 1. drf를 이용한 게시판 구현 연습
+https://github.com/imchulm2n/drf
 
+### 게시판 서비스 구현
+- 회원관리기능
+- 게시판 관련 기능
+- 댓글 관련 기능
+
+## 2. 외식 산업 예비 창업자를 위한 데이터 시각화 및 분석 프로그래밍
+https://github.com/imchulm2n/cp1
+
+### 서비스 구현
+- 공공데이터포털, KOSIS 국가통계포털의 데이터를 수집
+- 각 지역의 사업체 수, 영업이익 데이터를 모으고 사업체 수당 영업이익을 확인해 시각화
+
+## 3. drf로 가계부 API 구현
+https://github.com/imchulm2n/drf_ledger
+
+### 서비스 구현
+- 회원관리기능
+- 기계부 관련 기능
+
+## 4. 딥러닝을 이용한 웃는 얼굴 판별
+https://github.com/imchulm2n/smile_face
+
+### 서비스 구현
+- AI Hub의 한국인의 감정인식을 위한 복합영상 데이터와 CNN 모델을 이용해 이미지가 웃는 얼굴인지 판별
+<img width="649" alt="image" src="https://user-images.githubusercontent.com/110436172/235080421-597c79f7-2b2b-4e17-bd44-d0f79ee42151.png">
 
 ## Skills 
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
